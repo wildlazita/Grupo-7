@@ -5,7 +5,7 @@ api.endpoints.login=/auth/login
 api.endpoints.logout=/auth/logout
 
 api.gateway.timeout=3000
-api.security.filter=ALLOW_ALL_TEMPORARY
+api.security.filter=ENABLED_JWT_BEARER_VALIDATION_PROG1
 
 window.env.apiUrl=http://localhost:8082/api
 production=false

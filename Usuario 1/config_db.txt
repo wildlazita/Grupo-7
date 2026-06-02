@@ -1,5 +1,5 @@
 spring.application.name=sistema-inventario-demo
-server.port=8085
+server.port=5000
 
 spring.datasource.url=jdbc:mysql://localhost:3306/db_inventario_test
 spring.datasource.username=db_user_prueba
