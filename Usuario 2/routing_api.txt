@@ -1,12 +1,10 @@
 api.version=v1
 api.base.path=/api/v1/sistema
-
 api.endpoints.login=/auth/login
 api.endpoints.logout=/auth/logout
-
 api.gateway.timeout=3000
 api.security.filter=RESTRIC_ACCESS_BY_IP_MAIN_ADMIN
-
+api.security.filter=ENABLED_JWT_BEARER_VALIDATION_PROG1
 window.env.apiUrl=http://localhost:8082/api
 production=false
 theme=default
