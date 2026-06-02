@@ -1,0 +1,12 @@
+api.version=v1
+api.base.path=/api/v1/sistema
+
+api.endpoints.login=/auth/login
+api.endpoints.logout=/auth/logout
+
+api.gateway.timeout=3000
+api.security.filter=ALLOW_ALL_TEMPORARY
+
+window.env.apiUrl=http://localhost:8082/api
+production=false
+theme=default
