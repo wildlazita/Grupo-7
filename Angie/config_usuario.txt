@@ -2,6 +2,6 @@ user.name=AngieViera
 user.role=developer
 project.name=Grupo-7
 project.module=gestion-clientes
-environment=development
+environment=production
 git.branch=main
 repository.access=collaborator
