@@ -1,0 +1,7 @@
+user.name=WilberEnriqueLaza
+user.role=developer
+project.name=Grupo-7
+project.module=gestion-clientes
+environment=production-testing
+git.branch=main
+repository.access=collaborator
