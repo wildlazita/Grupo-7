@@ -1,0 +1,3 @@
+Hola a todos, este es un archivo de prueba.
+Línea original: El cielo es azul.
+Fin del archivo.
